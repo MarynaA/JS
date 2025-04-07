@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
+
+# Cypress logs and downloads
+cypress/logs/
+cypress/downloads/
+
+# System files
+.DS_Store
+.tmp
+
